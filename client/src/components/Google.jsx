@@ -41,9 +41,13 @@ const Google = () => {
            }
         }
 
-        const appNew=()=>[
+        const appNew=()=>{
             print("hello")
-        ]
+        }
+
+        const handleApp=()=>{
+            print("hello")
+        }
 
    
 
